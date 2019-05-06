@@ -1,0 +1,9 @@
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://rdsx0c439l4o728m0530.mysql.rds.aliyuncs.com/ibos_demo
+        username: saas1
+        password: olymtech1
+        initialSize: 5
+        maxActive: 20
+        minIdle: 5
